@@ -1,4 +1,4 @@
-Daftar tugas / branch
+## Daftar tugas / branch
 
     Tugas-git
     Tugas-html
@@ -8,7 +8,8 @@ Daftar tugas / branch
     Tugas-php
     Tugas-finalProject
 
-Daftar Perintah Git
+## Daftar Perintah Git
+    
     git clone: Mengunduh repositori dari GitHub ke komputer Anda.
     git add: Menambahkan file ke staging area.
     git commit: Menyimpan perubahan pada file.
